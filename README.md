@@ -1,19 +1,1 @@
 # profolio
-
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width">
-  <title>Profolio</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/marx/2.0.4/marx.css">
-</head>
-
-<body>
-<main>
-  <h1>Profolio</h1>
-  <p>testing</p>
-</main>
-
-</body>
-</html>
